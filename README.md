@@ -16,7 +16,7 @@ Dashboard examples from my past projects
 
 <h3>Power BI</h3>
 <p align="left">
-
+<img width="1211" height="580" alt="Image" src="https://github.com/user-attachments/assets/81203ce9-d630-46cb-a09e-31337e912720" />
 <br />
 <br />
 </p>
